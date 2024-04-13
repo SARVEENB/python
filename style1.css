@@ -1,0 +1,34 @@
+body{
+    background-image:url(s.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:auto;
+    
+   
+}
+
+div{
+   
+    display: inline-block;
+    margin-left: 50%;
+   margin-top:  10%;
+   color: black;
+ 
+}
+
+.tab{
+    margin-left: 43%;
+    background-color: aqua;
+    border-style:solid;
+    border-radius: 10px;
+    border: 1px;
+    height:200px;
+    width: 300px;
+}
+.button:hover{
+    background-color:crimson;
+    color: white;
+    cursor: pointer;
+
+
+}
